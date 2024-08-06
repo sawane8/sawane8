@@ -13,13 +13,23 @@ I'm a passionate developer and computer science enthusiast. Welcome to my GitHub
   - Node.js 🌐
 
 - **Programming Languages**:
-  - C
-  - C++
   - JavaScript 
+  - Python ( Flask )
+  - C++
+  - C
+  - VB .NET
 
 - **Mobile Development**:
   - React Native 📱
   - Expo 🛠️
+
+- **Server & Hosting**:
+  - Creating servers
+  - Installing software (Apache, Node.js, etc.)
+  - Hosting web applications
+  - DNS management
+  - SQL databases
+  - phpMyAdmin
 
 ## 🚀 What I'm Learning
 
@@ -27,6 +37,7 @@ I'm always eager to learn new technologies and expand my skill set. Currently, I
 
 - Machine Learning 🤖
 - Fine-tuning LLMs 🧠
+- Blockchain ⛓️
 
 ## 💻 Favorite Activities
 
