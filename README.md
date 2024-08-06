@@ -6,7 +6,7 @@ I'm a passionate developer and computer science enthusiast. Welcome to my GitHub
 
 - **Frontend Development**: 
   - HTML + CSS
-  - React.js ⚛️
+  - React.js ⚛️ ( MERN )
 
 - **Backend Development**:
   - PHP (first programming language!) 
