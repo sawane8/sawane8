@@ -6,6 +6,7 @@ I'm a passionate developer and computer science enthusiast. Welcome to my GitHub
 
 - **Frontend Development**: 
   - HTML + CSS
+  - Swift
   - React.js ⚛️ ( MERN )
 
 - **Backend Development**:
@@ -17,11 +18,13 @@ I'm a passionate developer and computer science enthusiast. Welcome to my GitHub
   - Python ( Flask )
   - C++
   - C
+  - Objective-C
   - VB .NET
 
 - **Mobile Development**:
   - React Native 📱
   - Expo 🛠️
+  - Lynx ( Learning... )
 
 - **Server & Hosting**:
   - Creating servers
