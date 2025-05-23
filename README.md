@@ -10,7 +10,7 @@ I'm a passionate developer and computer science enthusiast. Welcome to my GitHub
   - React.js ⚛️ ( MERN )
 
 - **Backend Development**:
-  - PHP (first programming language!) 
+  - PHP
   - Node.js 🌐
 
 - **Programming Languages**:
